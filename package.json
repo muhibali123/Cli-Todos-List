@@ -1,0 +1,21 @@
+{
+  "name": "muhibali-cli-todos-list",
+  "version": "2.0.0",
+  "description": "it is an cli based todos list ",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "muhibali-cli-todos-list": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhib Ali SIddiqui",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
